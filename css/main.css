@@ -7,6 +7,11 @@
     width:100%;
     z-index:0;
 }
+.Cert {
+	border: 3px solid #555;
+	width: 90;
+	height: 140px;
+}
 .timeline {
   border-left: 2px solid #E6E9ED;
   padding: 1rem 0; }
